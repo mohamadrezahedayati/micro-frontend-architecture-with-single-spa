@@ -1,3 +1,4 @@
+
 <template>
   <div class="mf-Container">
     <h1>App One</h1>
@@ -5,7 +6,6 @@
 </template>
 
 <script>
-
 export default {
   name: 'AppOne',
 }

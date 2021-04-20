@@ -38,7 +38,7 @@ module.exports = {
       }),
       new SystemJSPublicPathWebpackPlugin({
         rootDirectoryLevel: 1,
-        systemjsModuleName: "app-one"
+        systemjsModuleName: 'app-one'
       })
     ],
   },
